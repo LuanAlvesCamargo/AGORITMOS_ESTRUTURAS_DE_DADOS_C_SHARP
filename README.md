@@ -31,7 +31,7 @@ O repositório abrange os seguintes tópicos:
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/AGORITMOS_ESTRUTURAS_DE_DADOS_C_SHARP.git
+   git clone https://github.com/LuanAlvesCamargo/AGORITMOS_ESTRUTURAS_DE_DADOS_C_SHARP.git
    ```
 2. Abra o projeto em um ambiente de desenvolvimento como **Visual Studio** ou **VS Code**.
 3. Compile e execute os exemplos disponíveis.
